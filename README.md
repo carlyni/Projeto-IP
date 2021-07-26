@@ -8,4 +8,4 @@ cobrados nas listas de exercícios. O aluno poderá escolher um entre os três t
 
 Escolhemos trabalhar com a biblioteca Pygame com o intuito de elaborar um jogo, utlizando todos os recursos disponibilizados e ofertados na cadeiras de Introdução à Programação.
 
-
+Autores: Guilherme Iram, Lucas Vilar, Maria Carlyni
